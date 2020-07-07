@@ -1,0 +1,102 @@
+#mainNav{
+  border-bottom: 1px solid #343a40;
+}
+
+
+section{
+  border-top:  1px solid #bbb;
+}
+
+
+.masthead .masthead-avatar{
+  width: 17rem;
+}
+
+.portfolio-img{
+  border: 1px solid #343a40;
+  border-radius: .7rem;
+}
+
+h1{
+    margin-bottom: 1rem;
+}
+
+h2{
+  margin-bottom: 3rem;
+}
+
+.lead {
+  font-size: 15px;
+  line-height: 2rem;
+  font-family: 'Helvetica Neue','Helvetica','Arial','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック'!important;
+}
+
+.beginning-of-sentence{
+  font-weight: bold;
+}
+
+
+.list-group-item{
+  display: block;
+  padding: .75rem 1.25rem;
+  background-color: #fff;
+  border-style: none;
+  font-size: 14px;
+  line-height: 1rem;
+  font-family: 'Helvetica Neue','Helvetica','Arial','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック'!important;
+}
+
+.link-toggle,.nolink{
+  display: block;
+  font-weight: bold;
+  margin-bottom:1.5rem;
+  line-height: 1rem;  
+}
+
+.list-roadmap-items{
+  background-color: #fff;
+  font-size: 14px;
+  line-height: 2rem;
+  padding: 0.5rem 0rem 0.75rem 0rem;
+  font-family: 'Helvetica Neue','Helvetica','Arial','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック'!important;
+}
+
+.list-textbook-items{
+  display: block;
+  font-family: 'Helvetica Neue','Helvetica','Arial','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック'!important;
+}
+
+li > a, .portfolio-title{
+  color: #343a40;
+}
+
+.portfolio-title:hover{
+  color: #343a40;
+  text-decoration: none;
+}
+
+.site-link{
+  font-size: 14px!important;
+}
+
+.title-of-list{
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.title-of-list:nth-of-type(n+2){
+  margin-top: 1.5rem;
+}
+
+h5{
+  display: inline;
+}
+
+.social-link{
+  color: #fff;
+  font-size: 2rem;
+  margin-left: 0.75rem;
+}
+.social-link:hover{
+  color: #1abc9c;
+}
