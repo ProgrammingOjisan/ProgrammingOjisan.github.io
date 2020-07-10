@@ -33,7 +33,9 @@ h2{
 
 .beginning-of-sentence{
   font-weight: bold;
-}
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}}
 
 
 .list-group-item{
